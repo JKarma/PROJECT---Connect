@@ -1,0 +1,35 @@
+body {
+    padding: 0;
+    margin: 0;
+}
+
+/* Identified elements */
+
+#style-nav {
+    position: static;
+    width: 100%;
+    height: 15px;
+    border-bottom: 2px solid yellow;
+    background-color: red;
+}
+
+#style-nav-color-1 {
+    float: left;
+    width: 25%;
+    height: 15px;
+    background-color: limegreen;
+}
+
+#style-nav-color-2 {
+    float: left;
+    width: 15%;
+    height: 15px;
+    background-color: deepskyblue;
+}
+
+#style-nav-color-3 {
+    float: left;
+    width: 10%;
+    height: 15px;
+    background-color: darkcyan;
+}
