@@ -1,6 +1,7 @@
 body {
     padding: 0;
     margin: 0;
+    font-family: 'Rubik', sans-serif;
 }
 
 /* Identified elements */
@@ -11,6 +12,12 @@ body {
     height: 15px;
     border-bottom: 2px solid yellow;
     background-color: red;
+}
+
+#style-nav-img {
+    float: right;
+    width: 15px;
+    height: 15px;
 }
 
 #style-nav-color-1 {
@@ -32,4 +39,11 @@ body {
     width: 10%;
     height: 15px;
     background-color: darkcyan;
+}
+
+#style-nav-color-4 {
+    float: left;
+    width: 10%;
+    height: 15px;
+    background-color: orangered;
 }
